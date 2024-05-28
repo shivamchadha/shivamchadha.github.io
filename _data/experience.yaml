@@ -1,0 +1,31 @@
+experiences:
+
+- place: "Wadhwani AI"
+  time: "Jan 2024 - now"
+  title: "ML Intern"
+  subtitle: ""
+  category: "work"
+
+- place: "Amazon"
+  time: "Aug - Dec 2023"
+  title: "SDE Intern"
+  subtitle: ""
+  category: "work"
+
+- place: "NTU"
+  time: "2021-2023"
+  title: "Undergraduate Researcher"
+  subtitle: ""
+  category: "work"
+
+- place: "Hertztech Solutions Pvt. Ltd."
+  time: "Jun - Jul 2021"
+  title: "Intern"
+  subtitle: ""
+  category: "work"
+
+- place: "BITS  Pilani, Goa Campus"
+  time: "Aug 2019 – Present"
+  title: "B.E and M.Sc. Student"
+  subtitle: "M.Sc. Mathematics<br/> B.E Electronics and Communications Engineering<br/>"
+  category: "school"
