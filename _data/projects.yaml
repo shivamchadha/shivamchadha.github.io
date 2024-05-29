@@ -1,36 +1,36 @@
 projects:
   - title: "To Prune or Not Prune"
     subtitle: "A Chaos-Casuality Based Neural Network Pruning"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    thumbnail: "assets/projects/To Prune or Not Prune/pruning.png"
     url: "https://github.com/RAJAN13-blip/chaotic-pruning"
     selected: y
 
   - title: "ASR USING WHISPER"
     subtitle: "Medical Symptom Prediction"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+    thumbnail: "assets/projects/ASR USING WHISPER/whisper.png"
+    url: "https://github.com/RAJAN13-blip/ASR_Whisper_FT"
     selected: y
 
   - title: "CHAOSNET<sup>[R]</sup>"
     subtitle: "Alternative Feed-Forward Chaos-based Neural Network"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+    thumbnail: "assets/projects/CHAOSNET/chaosnet.png"
     url: "https://github.com/shivamchadha/ChaosNet"
     selected: y
 
   - title: "CNNs-First-Layer<sup>[R]</sup>"
     subtitle: "Studying What CNNs Learn in the First Layer"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+    thumbnail: "assets/projects/CNNs-First-Layer/cnn.png"
     url: "https://github.com/shivamchadha/CNNs-First-Layer"
     selected: y
 
   - title: "Segmentation Using DMD"
     subtitle: "DMD For Video Background/Foreground Separation"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+    thumbnail: "assets/projects/Segmentation Using DMD/dmd.png"
     url: "https://github.com/vish-ag/MLTermProject"
     selected: y
 
   - title: "COVID-19 CASES PREDICTOR"
     subtitle: "Time Series Analysis of deaths due to Covid"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    thumbnail: "assets/projects/COVID-19 CASES PREDICTOR/covid.png"
     url: "https://github.com/shivamchadha/Data-Science/blob/main/Copy_of_Covid_Forecsasting_final.ipynb"
     selected: n
