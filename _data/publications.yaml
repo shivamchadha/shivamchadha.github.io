@@ -3,6 +3,6 @@ papers:
   - title: "To prune or not to prune : A chaos-causality approach to principled pruning of dense neural networks"
     authors: "Rajan Sahu, <b>Shivam Chadha</b>, Nithin Nagaraj, Archana Mathur, Snehanshu Saha"
     venue: "Preprint"
-    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    paper_pdf: "https://arxiv.org/abs/2308.09955"
     selected: y
 

@@ -1,6 +1,6 @@
 projects:
   - title: "To Prune or Not Prune"
-    subtitle: "A Chaos Casuality Based Nerual Network Pruning"
+    subtitle: "A Chaos-Casuality Based Neural Network Pruning"
     thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
     url: "https://github.com/RAJAN13-blip/chaotic-pruning"
     selected: y
@@ -12,19 +12,19 @@ projects:
     selected: y
 
   - title: "CHAOSNET [R]"
-    subtitle: "Alternative feed-forward Chaos-based Neural Network"
+    subtitle: "Alternative Feed-Forward Chaos-based Neural Network"
     thumbnail: "assets/projects/2015_jun/thumbnail.png"
     url: "https://github.com/shivamchadha/ChaosNet"
     selected: y
 
   - title: "CNNs-First-Layer [R]"
-    subtitle: "Studying What CNNs learn in First Layer"
+    subtitle: "Studying What CNNs Learn in the First Layer"
     thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
     url: "https://github.com/shivamchadha/CNNs-First-Layer"
     selected: y
 
   - title: "Segmentation Using DMD"
-    subtitle: "DMD For Video Background/Foreground Seperation"
+    subtitle: "DMD For Video Background/Foreground Separation"
     thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
     url: "https://github.com/vish-ag/MLTermProject"
     selected: y
@@ -33,4 +33,4 @@ projects:
     subtitle: "Time Series Analysis of deaths due to Covid"
     thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
     url: "https://github.com/shivamchadha/Data-Science/blob/main/Copy_of_Covid_Forecsasting_final.ipynb"
-    selected: y 
+    selected: n
