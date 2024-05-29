@@ -11,13 +11,13 @@ projects:
     url: "projects/2016_human-atlas.html"
     selected: y
 
-  - title: "CHAOSNET [R]"
+  - title: "CHAOSNET<sup>[R]</sup>"
     subtitle: "Alternative Feed-Forward Chaos-based Neural Network"
     thumbnail: "assets/projects/2015_jun/thumbnail.png"
     url: "https://github.com/shivamchadha/ChaosNet"
     selected: y
 
-  - title: "CNNs-First-Layer [R]"
+  - title: "CNNs-First-Layer<sup>[R]</sup>"
     subtitle: "Studying What CNNs Learn in the First Layer"
     thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
     url: "https://github.com/shivamchadha/CNNs-First-Layer"
