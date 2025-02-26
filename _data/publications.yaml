@@ -1,8 +1,16 @@
 papers:
 
+  - title: "A Machine Learning Framework for Classroom EEG Recording Classification: Unveiling Learning-Style Patterns"
+    authors: "Rajamanickam Yuvaraj, <b>Shivam Chadha</b>, et al."
+    venue: "Algorithms (MDPI)"
+    paper_pdf: "https://www.mdpi.com/1999-4893/17/11/503"
+    selected: y
+    
   - title: "To prune or not to prune : A chaos-causality approach to principled pruning of dense neural networks"
     authors: "Rajan Sahu, <b>Shivam Chadha</b>, Nithin Nagaraj, Archana Mathur, Snehanshu Saha"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2308.09955"
     selected: y
+
+  
 
