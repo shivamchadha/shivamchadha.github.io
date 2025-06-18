@@ -1,4 +1,9 @@
 projects:
+  - title: "FIN-Agent"
+    subtitle: "AI financial analyst for Indian companies"
+    thumbnail: "assets/projects/FIN-Agent/Fin-Agent.png"
+    url: "https://github.com/shivamchadha/fin-agent"
+    selected: y
   - title: "To Prune or Not Prune"
     subtitle: "A Chaos-Casuality Based Neural Network Pruning"
     thumbnail: "assets/projects/To Prune or Not Prune/pruning.png"
@@ -9,7 +14,7 @@ projects:
     subtitle: "Medical Symptom Prediction"
     thumbnail: "assets/projects/ASR USING WHISPER/whisper.png"
     url: "https://github.com/RAJAN13-blip/ASR_Whisper_FT"
-    selected: y
+    selected: n
 
   - title: "CHAOSNET<sup>[R]</sup>"
     subtitle: "Alternative Feed-Forward Chaos-based Neural Network"

@@ -6,9 +6,9 @@ papers:
     paper_pdf: "https://www.mdpi.com/1999-4893/17/11/503"
     selected: y
     
-  - title: "To prune or not to prune : A chaos-causality approach to principled pruning of dense neural networks"
+  - title: "A Chaos-Causality Approach to Principled Pruning of Dense Neural Networks"
     authors: "Rajan Sahu, <b>Shivam Chadha</b>, Nithin Nagaraj, Archana Mathur, Snehanshu Saha"
-    venue: "Preprint"
+    venue: " Chaos Theory and Applications (CHTA)"
     paper_pdf: "https://arxiv.org/abs/2308.09955"
     selected: y
 
